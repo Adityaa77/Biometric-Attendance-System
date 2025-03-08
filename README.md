@@ -1,5 +1,5 @@
 # Biometric-Attendance-System
-# Biometric Attendance System
+
 
 An IoT-based attendance tracking system using fingerprint authentication. The system identifies registered users via their fingerprint, displays a welcome message on an LCD screen, and sends attendance data to a cloud database in real-time.
 
